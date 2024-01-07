@@ -1,0 +1,3 @@
+﻿//AND funktsioon
+
+//OR funktsioon

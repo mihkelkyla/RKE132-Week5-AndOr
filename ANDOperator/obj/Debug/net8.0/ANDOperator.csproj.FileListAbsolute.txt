@@ -1,0 +1,14 @@
+C:\Users\kasutaja\source\repos\Week5LogicalOperators\ANDOperator\bin\Debug\net8.0\ANDOperator.exe
+C:\Users\kasutaja\source\repos\Week5LogicalOperators\ANDOperator\bin\Debug\net8.0\ANDOperator.deps.json
+C:\Users\kasutaja\source\repos\Week5LogicalOperators\ANDOperator\bin\Debug\net8.0\ANDOperator.runtimeconfig.json
+C:\Users\kasutaja\source\repos\Week5LogicalOperators\ANDOperator\bin\Debug\net8.0\ANDOperator.dll
+C:\Users\kasutaja\source\repos\Week5LogicalOperators\ANDOperator\bin\Debug\net8.0\ANDOperator.pdb
+C:\Users\kasutaja\source\repos\Week5LogicalOperators\ANDOperator\obj\Debug\net8.0\ANDOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasutaja\source\repos\Week5LogicalOperators\ANDOperator\obj\Debug\net8.0\ANDOperator.AssemblyInfoInputs.cache
+C:\Users\kasutaja\source\repos\Week5LogicalOperators\ANDOperator\obj\Debug\net8.0\ANDOperator.AssemblyInfo.cs
+C:\Users\kasutaja\source\repos\Week5LogicalOperators\ANDOperator\obj\Debug\net8.0\ANDOperator.csproj.CoreCompileInputs.cache
+C:\Users\kasutaja\source\repos\Week5LogicalOperators\ANDOperator\obj\Debug\net8.0\ANDOperator.dll
+C:\Users\kasutaja\source\repos\Week5LogicalOperators\ANDOperator\obj\Debug\net8.0\refint\ANDOperator.dll
+C:\Users\kasutaja\source\repos\Week5LogicalOperators\ANDOperator\obj\Debug\net8.0\ANDOperator.pdb
+C:\Users\kasutaja\source\repos\Week5LogicalOperators\ANDOperator\obj\Debug\net8.0\ANDOperator.genruntimeconfig.cache
+C:\Users\kasutaja\source\repos\Week5LogicalOperators\ANDOperator\obj\Debug\net8.0\ref\ANDOperator.dll
